@@ -1,3 +1,7 @@
-.prueba {
-    background-color: black;
+.prop1 {
+    display: block;
+}
+
+.prop2 {
+    display: none;
 }

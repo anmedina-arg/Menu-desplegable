@@ -1,8 +1,5 @@
-import { useState } from "react"
-
-
 function MenuItem ({name}) {
-    const [visible, setVisible] = useState("false")
+ 
     return (
         <div>
             <li>

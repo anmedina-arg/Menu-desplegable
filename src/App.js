@@ -1,9 +1,8 @@
-import Category from "./components/category/category.js"
-import styles from "../src/components/category/category.module.css"
+import Category from "./components/category/Category.js"
 
 function App() {
   return (
-    <div styles={styles.prueba}>
+    <div>
       <ul>
         <h1>hola mundo!</h1>
         <Category name="Lenguajes" items={["HTML", "JS", "CSS"]}/>
