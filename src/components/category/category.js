@@ -9,7 +9,6 @@ function Category ({name, items}) {
 
     function showHideMenu (e) {
         e.preventDefault()
-        console.log("estoy aqui" + visible)
         setVisible(!visible)
     }
     return (
