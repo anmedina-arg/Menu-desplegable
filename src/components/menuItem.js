@@ -1,4 +1,6 @@
-function MenuItem ({name}) {
+import React from "react";
+
+function MenuItem({ name }) {
  
     return (
         <div>
